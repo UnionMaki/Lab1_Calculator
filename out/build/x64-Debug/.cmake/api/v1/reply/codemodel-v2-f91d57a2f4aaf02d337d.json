@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "plugins",
+					"jsonFile" : "directory-plugins-Debug-432f0029505b84f51ac1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugins",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CalculatorPluginSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc-Debug-aa57474233af0f2c7fb6.json",
+					"name" : "calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_plugins-Debug-430aa6b31925e253bb92.json",
+					"name" : "copy_plugins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "funccos::@e73236870873ac66af4c",
+					"jsonFile" : "target-funccos-Debug-a86ef623ebf47dc3e965.json",
+					"name" : "funccos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "funcpow::@e73236870873ac66af4c",
+					"jsonFile" : "target-funcpow-Debug-5ec0da558fea27097a89.json",
+					"name" : "funcpow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "funcsin::@e73236870873ac66af4c",
+					"jsonFile" : "target-funcsin-Debug-0279d4341e308790a086.json",
+					"name" : "funcsin",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug",
+		"source" : "C:/Users/rmnmk/source/repos/Lab1_Calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
