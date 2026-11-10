@@ -1,0 +1,9 @@
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/CMakeFiles/calc.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/CMakeFiles/copy_plugins.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/plugins/CMakeFiles/funcsin.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/plugins/CMakeFiles/funccos.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/plugins/CMakeFiles/funcpow.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/plugins/CMakeFiles/edit_cache.dir
+C:/Users/rmnmk/source/repos/Lab1_Calculator/out/build/x64-Debug/plugins/CMakeFiles/rebuild_cache.dir
