@@ -6,7 +6,8 @@
 #include <stdexcept>
 
 namespace {
-    constexpr double kDegToRad = M_PI / 180.0;
+    constexpr double PI = 3.14159265358979323846;
+    constexpr double kDegToRad = PI / 180.0;
     const FunctionInfo kInfo{ "sin", 1 };
 }
 

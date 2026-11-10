@@ -1,12 +1,12 @@
 #define PLUGIN_EXPORTS
 #include "plugin_api.h"
 
-#define _USE_MATH_DEFINES
 #include <cmath>
 #include <stdexcept>
 
 namespace {
-    constexpr double kDegToRad = M_PI / 180.0;
+    constexpr double PI = 3.14159265358979323846;
+    constexpr double kDegToRad = PI / 180.0;
     const FunctionInfo kInfo{ "cos", 1 };
 }
 

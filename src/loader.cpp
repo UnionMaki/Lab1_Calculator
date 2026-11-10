@@ -14,7 +14,7 @@ std::vector<fs::path> findPluginFiles(const fs::path& pluginsDir) {
             result.push_back(entry.path());
         }
     }
-    std::sort(result.begin(), result.end());
+    //std::sort(result.begin(), result.end());
     return result;
 }
 
